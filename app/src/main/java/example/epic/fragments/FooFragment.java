@@ -15,6 +15,8 @@ public class FooFragment extends Fragment {
 
         View view = inflater.inflate(R.layout.fragment_foo, container, false);
 
+
+
         return view;
 
     }
